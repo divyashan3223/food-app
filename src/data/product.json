@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Noodles",
+      "amount": "110",
+      "shop": "Flavor Haven",
+      "ftype": "veg",
+      "pic": "https://images.pexels.com/photos/12913627/pexels-photo-12913627.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "2",
+      "name": "Parata",
+      "amount": "40",
+      "shop": "Tasty Bites Emporium",
+      "ftype": "veg",
+      "pic": "https://images.pexels.com/photos/12913627/pexels-photo-12913627.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "3",
+      "name": "Braiyani",
+      "amount": "230",
+      "shop": "Coimbatore Spice Bazaar",
+      "ftype": "non-veg",
+      "pic": "https://images.pexels.com/photos/12913627/pexels-photo-12913627.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "4",
+      "name": "Panner rice",
+      "amount": "140",
+      "shop": "Kovai Kitchen Delights",
+      "ftype": "non-veg",
+      "pic": "https://images.pexels.com/photos/12913627/pexels-photo-12913627.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "5",
+      "name": "Pav bajji",
+      "amount": "150",
+      "shop": "CBE Curry Corner",
+      "ftype": "veg",
+      "pic": "https://images.pexels.com/photos/12913627/pexels-photo-12913627.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "6",
+      "name": "chicken 65",
+      "amount": "260",
+      "shop": "Tamil Nadu Tastes Eatery",
+      "ftype": "non-veg",
+      "pic": "https://images.pexels.com/photos/12913627/pexels-photo-12913627.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "7",
+      "name": "mutton braiyani",
+      "amount": "270",
+      "shop": "Kovai Kadai Junction",
+      "ftype": "veg",
+      "pic": "https://images.pexels.com/photos/12913627/pexels-photo-12913627.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "8",
+      "name": "egg rice",
+      "amount": "180",
+      "shop": "Codissia Chowpatty",
+      "ftype": "veg",
+      "pic": "https://images.pexels.com/photos/12913627/pexels-photo-12913627.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "9",
+      "name": "pizza",
+      "amount": "190",
+      "shop": "CBE Flavors Fusion",
+      "ftype": "non-veg",
+      "pic": "https://images.pexels.com/photos/12913627/pexels-photo-12913627.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "10",
+      "name": "Burger",
+      "amount": "100",
+      "shop": "Coimbatore Chaat House",
+      "ftype": "veg",
+      "pic": "https://images.pexels.com/photos/12913627/pexels-photo-12913627.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ]
+}
